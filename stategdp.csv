@@ -1,0 +1,53 @@
+﻿state,GDPpc2018,comp13w2017,landareakm,Systems,Examiner,Physician,DaysAllowed,Legal Time Allotted ,statebudgetpc,statepubhpc
+Alabama,45219,96.7,131171,County-based mixture of medical examiner and coroner offices,N,N,,,6577,54
+Alaska,73205,95,1477953,Centralized state medical examiner office,Y,Y,3,3 days,11254,98
+Arizona,48055,84.6,294207,County/district-based medical examiner offices,N,N,7,7 days ,6050,15
+Arkansas,42454,97.3,134771,County/district-based coroner offices,Y,Y,10,10 days,10585,48
+California,74205,96.7,403466,County-based mixture of medical examiner and coroner offices,N,N,8,8 days ,5430,72
+Colorado,63882,99.9,268431,County/district-based coroner offices,N,N,5,5 days w/in death,6236,51
+Connecticut,76342,68.2,12542,Centralized state medical examiner office,Y,Y,5,"5 days paper, 3 EDRS",6025,32
+Delaware,77253,98.1,5047,Centralized state medical examiner office,Y,Y,3,3 days,4603,34
+District of Columbia,200277,94.7,158,Centralized state medical examiner office,N,N,5,,,363
+Florida,48318,99.4,138887,County/district-based medical examiner offices,N,N,5,5 days ,4277,19
+Georgia,55832,95.1,148959,County-based mixture of medical examiner and coroner offices,Y,Y,5,5 days ,4634,27
+Hawaii,64096,98,16635,County-based mixture of medical examiner and coroner offices,N,N,3,3 days ,10810,127
+Idaho,43430,96.2,214045,County/district-based coroner offices,N,N,3,3 days ,4601,85
+Illinois,67268,100,143793,County-based mixture of medical examiner and coroner offices,N,N,5,5 days ,3147,30
+Indiana,55172,93.7,92789,County/district-based coroner offices,N,N,7,7 days ,3147,15
+Iowa,59977,97.1,144669,County/district-based medical examiner offices,Y,Y,,unknown,2815,83
+Kansas,56334,97.6,211754,County/district-based coroner offices,N,Y,3,3 days ,6320,13
+Kentucky,46898,95,102269,County/district-based coroner offices,Y,Y,5,3 days (5 days),8069,35
+Louisiana,53589,97.1,111898,County/district-based coroner offices,N,Y,10,10 days ,7591,25
+Maine,47969,95.1,,Centralized state medical examiner office,Y,Y,5,5 days,5962,27
+Maryland,68573,98.2,,Centralized state medical examiner office,Y,Y,,unspecified,8475,43
+Massachusetts,82480,99,,Centralized state medical examiner office,Y,Y,3,3 days,6068,83
+Michigan,53209,90.2,,County/district-based medical examiner offices,N,N,,different time requirements for different stakeholders,5680,15
+Minnesota,64675,97,,County-based mixture of medical examiner and coroner offices,N,Y,3,3 days,4268,40
+Mississippi,37948,95,,County-based mixture of medical examiner and coroner offices,Y,Y,5,5 days,7059,16
+Missouri,51699,94.7,,County-based mixture of medical examiner and coroner offices,N,N,5,5 days,4898,7
+Montana,46609,92.8,,County/district-based coroner offices,Y,Y,5,5 days ,4793,22
+Nebraska,63942,97,,County/district-based coroner offices,N,N,10,10 days,5024,38
+Nevada,55269,94.1,,County/district-based coroner offices,N,N,5,5 days ,8772,11
+New Hampshire,63067,98.5,,Centralized state medical examiner office,Y,Y,3,3 days (unclear),4398,21
+New Jersey,69378,99.6,,County/district-based medical examiner offices,Y,Y,3,36 hours,6224,29
+New Mexico,49954,94.1,,Centralized state medical examiner office,Y,Y,,unknown,9101,140
+New York,85746,90.9,,County-based mixture of medical examiner and coroner offices,N,N,5,5 days ,9087,83
+New York City,,100,,County/district-based medical examiner offices,Y,Y,3,3 days,,
+North Carolina,54441,91.6,,Centralized state medical examiner office,Y,Y,3,3 days,2303,15
+North Dakota,72597,95.2,,County/district-based coroner offices,Y,Y,5,5 days,19328,59
+Ohio,57492,99.8,,County-based mixture of medical examiner and coroner offices,N,Y,10,10 days (MC) different requirements,5902,14
+Oklahoma,50613,98.1,,Centralized state medical examiner office,Y,Y,2,2 days (MC),2062,44
+Oregon,56956,96.2,,Centralized state medical examiner office,Y,Y,3,3 days,18273,35
+Pennsylvania,61594,65.4,,County-based mixture of medical examiner and coroner offices,N,N,2,2 days (MC),2655,15
+Rhode Island,57852,97.8,,Centralized state medical examiner office,Y,Y,4,4 business days (6 days if weekend),9430,57
+South Carolina,45280,98.9,,County/district-based coroner offices,N,N,7,7 days ,5810,27
+South Dakota,58624,96.8,,County/district-based coroner offices,N,N,5,5 days,5575,35
+Tennessee,53933,90.4,,County/district-based medical examiner offices,Y,Y,5,5 days,5695,51
+Texas,61167,99.7,,County-based mixture of medical examiner and coroner offices,N,N,5,5 days,3759,17
+Utah,55550,97.1,,Centralized state medical examiner office,Y,Y,10,10 days,6648,33
+Vermont,53523,96.3,,Centralized state medical examiner office,Y,Y,5,5 days,9580,49
+Virginia,62563,99.1,,Centralized state medical examiner office,Y,Y,2,2 days,7499,40
+Washington,74182,98.2,,County-based mixture of medical examiner and coroner offices,N,N,1,1 day (MC),15707,46
+West Virginia,43053,87.4,,Centralized state medical examiner office,Y,Y,5,3 days (5 days),7652,59
+Wisconsin,57720,97.2,,County-based mixture of medical examiner and coroner offices,N,N,3,3 days,6901,17
+Wyoming,69900,93.6,,County/district-based coroner offices,N,N,3,3 days ,15419,50
